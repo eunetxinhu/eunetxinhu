@@ -40,7 +40,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eunetxinhu&theme=graywhite&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eunetxinhu&theme=graywhite&hide_border=true&background=00000000" />
 </p>
 
 <p align="center">
@@ -51,19 +51,13 @@
 
 <p align="center">
   <a href="https://github.com/eunetxinhu/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eunetxinhu&repo=portfolio&theme=graywhite&hide_border=true" />
+    <img src="https://img.shields.io/badge/📁_portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/eunetxinhu/curriculum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eunetxinhu&repo=curriculum&theme=graywhite&hide_border=true" />
+    <img src="https://img.shields.io/badge/📁_curriculum-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/eunetxinhu/atividadeCloudfinal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eunetxinhu&repo=atividadeCloudfinal&theme=graywhite&hide_border=true" />
+    <img src="https://img.shields.io/badge/📁_atividadeCloudfinal-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
