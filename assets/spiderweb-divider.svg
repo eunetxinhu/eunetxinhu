@@ -1,0 +1,51 @@
+<svg viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <g id="web-corner">
+      <!-- linhas radiais -->
+      <line x1="0" y1="0" x2="70" y2="0"   stroke="#E63946" stroke-width="1.2" opacity="0.85"/>
+      <line x1="0" y1="0" x2="55" y2="-28" stroke="#E63946" stroke-width="1.2" opacity="0.85"/>
+      <line x1="0" y1="0" x2="30" y2="-45" stroke="#E63946" stroke-width="1.2" opacity="0.85"/>
+      <line x1="0" y1="0" x2="0"  y2="-55" stroke="#E63946" stroke-width="1.2" opacity="0.85"/>
+      <line x1="0" y1="0" x2="55" y2="28"  stroke="#E63946" stroke-width="1.2" opacity="0.85"/>
+      <line x1="0" y1="0" x2="30" y2="45"  stroke="#E63946" stroke-width="1.2" opacity="0.85"/>
+      <line x1="0" y1="0" x2="0"  y2="55"  stroke="#E63946" stroke-width="1.2" opacity="0.85"/>
+
+      <!-- arcos concêntricos conectando os raios -->
+      <path d="M 18 0 Q 16 -10 12 -16" fill="none" stroke="#E63946" stroke-width="1" opacity="0.6"/>
+      <path d="M 12 -16 Q 9 -20 5 -22"  fill="none" stroke="#E63946" stroke-width="1" opacity="0.6"/>
+      <path d="M 5 -22 Q 2 -24 0 -26"   fill="none" stroke="#E63946" stroke-width="1" opacity="0.6"/>
+
+      <path d="M 32 0 Q 28 -18 20 -28" fill="none" stroke="#E63946" stroke-width="1" opacity="0.6"/>
+      <path d="M 20 -28 Q 14 -34 6 -38" fill="none" stroke="#E63946" stroke-width="1" opacity="0.6"/>
+      <path d="M 6 -38 Q 2 -40 0 -42"   fill="none" stroke="#E63946" stroke-width="1" opacity="0.6"/>
+
+      <path d="M 48 0 Q 42 -26 30 -40" fill="none" stroke="#E63946" stroke-width="1" opacity="0.5"/>
+      <path d="M 30 -40 Q 20 -48 9 -52" fill="none" stroke="#E63946" stroke-width="1" opacity="0.5"/>
+      <path d="M 9 -52 Q 3 -54 0 -55"   fill="none" stroke="#E63946" stroke-width="1" opacity="0.5"/>
+
+      <path d="M 18 0 Q 16 10 12 16"  fill="none" stroke="#E63946" stroke-width="1" opacity="0.6"/>
+      <path d="M 12 16 Q 9 20 5 22"   fill="none" stroke="#E63946" stroke-width="1" opacity="0.6"/>
+      <path d="M 5 22 Q 2 24 0 26"    fill="none" stroke="#E63946" stroke-width="1" opacity="0.6"/>
+
+      <path d="M 32 0 Q 28 18 20 28"  fill="none" stroke="#E63946" stroke-width="1" opacity="0.6"/>
+      <path d="M 20 28 Q 14 34 6 38"  fill="none" stroke="#E63946" stroke-width="1" opacity="0.6"/>
+      <path d="M 6 38 Q 2 40 0 42"    fill="none" stroke="#E63946" stroke-width="1" opacity="0.6"/>
+
+      <path d="M 48 0 Q 42 26 30 40"  fill="none" stroke="#E63946" stroke-width="1" opacity="0.5"/>
+      <path d="M 30 40 Q 20 48 9 52"  fill="none" stroke="#E63946" stroke-width="1" opacity="0.5"/>
+      <path d="M 9 52 Q 3 54 0 55"    fill="none" stroke="#E63946" stroke-width="1" opacity="0.5"/>
+
+      <!-- pequena aranha no canto -->
+      <circle cx="6" cy="-6" r="2.6" fill="#111111"/>
+      <circle cx="6" cy="-9.5" r="1.4" fill="#111111"/>
+    </g>
+  </defs>
+
+  <!-- canto esquerdo -->
+  <use href="#web-corner" transform="translate(10,45)"/>
+  <!-- canto direito, espelhado -->
+  <use href="#web-corner" transform="translate(790,45) scale(-1,1)"/>
+
+  <!-- linha central da teia conectando os dois cantos -->
+  <line x1="90" y1="45" x2="710" y2="45" stroke="#E63946" stroke-width="1" opacity="0.35" stroke-dasharray="2 6"/>
+</svg>
