@@ -43,11 +43,11 @@
   <a href="https://github.com/eunetxinhu/portfolio">
     <img src="https://img.shields.io/badge/📁_portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/eunetxinhu/curriculum">
-    <img src="https://img.shields.io/badge/📁_curriculum-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/eunetxinhu/otimizadorWin11">
+    <img src="https://img.shields.io/badge/📁_otimizadorWin11-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/eunetxinhu/atividadeCloudfinal">
-    <img src="https://img.shields.io/badge/📁_atividadeCloudfinal-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/eunetxinhu/explica-facil">
+    <img src="https://img.shields.io/badge/📁_explica-facil-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
