@@ -37,16 +37,6 @@
   <img src="assets/spiderweb-divider.svg" width="100%" alt="spider web" />
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eunetxinhu&theme=graywhite&hide_border=true&background=00000000" />
-</p>
-
-<p align="center">
-  <img src="assets/spiderweb-divider.svg" width="100%" alt="spider web" />
-</p>
-
 ### 🚀 Featured Projects
 
 <p align="center">
