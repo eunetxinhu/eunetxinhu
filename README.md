@@ -8,10 +8,12 @@ I build interfaces with React, Tailwind and Node.js, backed by experience in tec
 
 ### Projects
 
-- [portfolio](https://github.com/eunetxinhu/portfolio)
-- [otimizadorWin11](https://github.com/eunetxinhu/otimizadorWin11)
-- [explica-facil](https://github.com/eunetxinhu/explica-facil)
+[See all my repositories →](https://github.com/eunetxinhu?tab=repositories)
 
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/eunetxinhu/) · [Instagram](https://instagram.com/eunetxinhu) · netoart@outlook.com.br
+
+<p align="center">
+  <img src="assets/spider-hanging.svg" width="100%" alt="Spider hanging from a web thread" />
+</p>

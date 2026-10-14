@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="800" height="260" role="img" aria-label="Aranha pendurada em um fio de teia">
+  <style>
+    .ink { stroke: #24292f; fill: #24292f; }
+    .thread { stroke: #24292f; opacity: .45; }
+    @media (prefers-color-scheme: dark) {
+      .ink { stroke: #e6edf3; fill: #e6edf3; }
+      .thread { stroke: #e6edf3; }
+    }
+  </style>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="-2.5 400 0; 2.5 400 0; -2.5 400 0" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1; .45 0 .55 1"/>
+    <line class="thread" x1="400" y1="0" x2="400" y2="152" stroke-width="1.5"/>
+    <g transform="translate(400 150)">
+      <g class="ink" fill="none" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M-7 40 L-30 22 L-40 4" fill="none"/>
+        <path d="M-9 45 L-36 36 L-50 22" fill="none"/>
+        <path d="M-9 51 L-36 56 L-48 74" fill="none"/>
+        <path d="M-7 56 L-28 72 L-34 94" fill="none"/>
+        <path d="M7 40 L30 22 L40 4" fill="none"/>
+        <path d="M9 45 L36 36 L50 22" fill="none"/>
+        <path d="M9 51 L36 56 L48 74" fill="none"/>
+        <path d="M7 56 L28 72 L34 94" fill="none"/>
+      </g>
+      <ellipse class="ink" cx="0" cy="20" rx="15" ry="19" stroke="none"/>
+      <ellipse class="ink" cx="0" cy="48" rx="10" ry="11" stroke="none"/>
+    </g>
+  </g>
+</svg>
